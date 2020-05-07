@@ -1,5 +1,5 @@
-# Title
+# Online CodeRefinery workshop
 
-### Subtitle
+### For those familiar with Git and Collaborative Distribution Version Controll
 
 ---
