@@ -30,7 +30,7 @@ Overlapping roles are allowed when you think it's reasonable!
          <th>Experts helpers</th>
 </tr>
 <tr>
-  <th>18.may (M)</th>
+  <th>18 May (M)</th>
          <td>intro: <br>
 		     reproducible-research: Thor<br>
 		     social-coding: Sabry<br>
@@ -40,7 +40,7 @@ Overlapping roles are allowed when you think it's reasonable!
          <td>Max, Bjørn</td><!--expert helpers-->
 </tr>
 <tr>
-  <th>19.may (T)</th>
+  <th>19 May (T)</th>
          <td>documentation: <br>
 		     jupyter: <br>
 	     </td>
@@ -49,7 +49,7 @@ Overlapping roles are allowed when you think it's reasonable!
          <td></td><!--expert helpers-->
 </tr>
 <tr>
-  <th>20.may (W)</th>
+  <th>20 May (W)</th>
          <td>testing: <br>
 		     modular code development: <br>
 		     outro: <br>
