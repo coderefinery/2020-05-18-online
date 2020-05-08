@@ -3,21 +3,24 @@
 This repository is a template to set up webpages for CodeRefinery workshops.
 
 
-### Schedule planning
-
+## Schedule planning
+### Roles and tasks
 **Host:** Manage zoom meeting, breakout rooms, timekeeping and breaks,
-zoom chat, general attendee communication.  **Hackmd:** watches
-hackmd, answers questions, organizes it, brings questions up in main
-lecture.  **Expert helpers:** Reserve instructors who can help with
+zoom chat, general attendee communication.  
+**Hackmd:** watches hackmd, answers questions, organizes it, brings questions up in main
+lecture.  
+**Expert helpers:** Reserve instructors who can help with
 difficult problems, especially configuration problems at the very
-beginning of each day.  **Helper:** breakout room helper, listed at
+beginning of each day.  
+**Helper:** breakout room helper, listed at
 end (not per day) since they are usually expected to be a helper every
-day. **(name)** in parentheses: "I offer to do it
+day. 
+**(name)** in parentheses: "I offer to do it
 but I am happy if someone replaces me here."
 
 Overlapping roles are allowed when you think it's reasonable!
 
-
+### Schedule and assignment of roles
 <table>
 <tr>
   <th>Day</th>
@@ -29,20 +32,20 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>18.may (M)</th>
          <td>intro: <br>
-		     reproducible-research: <br>
-		     social-coding: <br>
+		     reproducible-research: Thor<br>
+		     social-coding: Sabry<br>
 	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Naoe</td><!--host-->
+         <td>Juho</td><!--hackmd-->
+         <td>Max, Bjørn</td><!--expert helpers-->
 </tr>
 <tr>
   <th>19.may (T)</th>
          <td>documentation: <br>
 		     jupyter: <br>
 	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>Juho</td><!--hackmd-->
          <td></td><!--expert helpers-->
 </tr>
 <tr>
