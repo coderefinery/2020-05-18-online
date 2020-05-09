@@ -1,18 +1,21 @@
 
 
-### Location
+### Location 
 
-Edit here location, address, or video connection details.
+The workshop will be held online by using Zoom.
+Details will be provided to the participants before the workshop starts.
 
 
 ### Time
 
 (Adjust these times)
 
-- Tuesday 9:00 - 12:00 (CEST)
-  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200407T07&ah=3))
-- Wednesday 9:00 - 12:00 (CEST)
-  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200408T07&ah=3))
+- Monday 18 May 9:00 - 12:00 (CEST)
+  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery+workshop&iso=20200518T09&p1=187&ah=3))
+- Tuesday 19 May 9:00 - 12:00 (CEST)
+  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200519T09&p1=187&ah=3))
+- Wednesday 20 May 9:00 - 12:00 (CEST)
+  ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery-workshop&iso=20200520T09&p1=187&ah=3))
 
 
 ### Price
@@ -22,10 +25,11 @@ Free of charge.
 
 ### Who the course is for
 
-Are you doing any of these things below:
-- You write scripts to process data.
+Does any of the following apply you?
+- You write scripts to process data (at intermediate level or higher)
 - You change scripts written by your colleagues.
 - You write code that is used in research by you or others.
+- You would like to apply best software practice.
 
 If yes, then this course is for you.  Most participants are not
 "professional code developers" or computer scientists.
@@ -51,15 +55,10 @@ Python.
   [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
   ([video](https://youtu.be/56p6xX0aToI))
   contains the essentials.
-- Basics in one or more programming languages.
-- You will need to bring a laptop.
-- If this is an in-person workshop, it is good if you have access to Eduroam.
+- You have knowledge and skills of using Git for collaborative version controll.
+- Familiar with one or more programming languages.
+- You can use a machine with which you can work on exercise and join in the workshop by Zoom.
 - You need to install some software. Please follow links in the schedule.
-- It is useful if you have a basic idea of how Git works. We will start from
-  the basics, but please go through
-  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
-  for a basic overview and important configuration steps.
-
 
 ### Instructors
 
