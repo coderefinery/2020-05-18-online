@@ -8,8 +8,6 @@ Details will be provided to the participants before the workshop starts.
 
 ### Time
 
-(Adjust these times)
-
 - Monday 18 May 9:00 - 12:00 (CEST)
   ([convert to my time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CodeRefinery+workshop&iso=20200518T09&p1=187&ah=3))
 - Tuesday 19 May 9:00 - 12:00 (CEST)
