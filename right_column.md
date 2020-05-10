@@ -60,7 +60,10 @@ Python.
 
 ### Instructors
 
-- TBA
+- Radovan Bast
+- Bjørn Lindi
+- Sabry Razick
+- Thor Wikfeldt
 
 
 ### Helpers
