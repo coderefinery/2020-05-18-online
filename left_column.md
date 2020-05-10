@@ -61,19 +61,8 @@ Day 2 (19 May, Tue)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
   (TBA)
-- 11:00 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:30
-  [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 15:00-17:00
-  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
 
-Day 3
+Day 3 (20 May, Wed)
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
   (TBA)
