@@ -24,8 +24,8 @@ This workshop does not cover the two Git lessons, [Introduction to
 version control with Git](https://coderefinery.github.io/git-intro/)
 and [Collaborative distributed version
 control](https://coderefinery.github.io/git-collaborative/). 
-**Workshop participants are expected to have attended these lessons before,
-or have significant previous experience with Git.**
+**Workshop participants are expected to have attended these lessons before,**
+**or have significant previous experience with Git.**
 
 ### **Software requirements**
 
