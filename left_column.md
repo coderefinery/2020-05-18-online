@@ -11,15 +11,21 @@ support@coderefinery.org
 
 ### Format
 
-Hands-on informal and interactive online 3-day event with type-along type of
-presentations, live coding and demos. Short tutorials alternate with practical
-exercises.
+Hands-on informal and interactive online event with 3 half-days
+composed of type-along type of presentations, live coding and
+demos. Short tutorials alternate with practical exercises.
 
 
 ### Course goals
 
 The aim of this course is to demonstrate to and familiarize the workshop participants with best practices and tools in modern research software development. The main focus is on professional tools for efficiently writing and maintaining research software. Since most research code is developed in a collaborative setting, we will discuss tools and workflows which facilitate this process. Most of the content is also relevant to a single researcher.
 
+This workshop does not cover the two Git lessons, [Introduction to
+version control with Git](https://coderefinery.github.io/git-intro/)
+and [Collaborative distributed version
+control](https://coderefinery.github.io/git-collaborative/). 
+**Workshop participants are expected to have attended these lessons before,
+or have significant previous experience with Git.**
 
 ### **Software requirements**
 
