@@ -46,29 +46,29 @@ European Summer Time.
 Day 1 (18 May, Mon)
 - 9:00 - 9:10
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Thor)
 - 9:10 - 10:40
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
+  (Thor)
 - 10:40 - 12:00
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
+  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md) 
+  (Sabry)
 
 Day 2 (19 May, Tue)
 - 9:00 - 10:30
   [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
+  (Radovan)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
+  (Thor)
 
 Day 3 (20 May, Wed)
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
-  (TBA)
+  (Bjørn)
 - 10:30 - 11:50
   [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
-  (TBA)
+  (Radovan)
 - 11:50 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  (Thor)

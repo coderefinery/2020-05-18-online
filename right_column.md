@@ -70,4 +70,6 @@ Python.
 
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
-- TBA
+- Richard Darst
+- Max Roald Eckardt
+- Juho Lehtonen
