@@ -37,26 +37,26 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>Naoe</td><!--host-->
          <td>Juho</td><!--hackmd-->
-         <td>Max, Bjørn</td><!--expert helpers-->
+         <td>Max, Richard</td><!--expert helpers-->
 </tr>
 <tr>
   <th>19 May (T)</th>
-         <td>documentation: <br>
-		     jupyter: <br>
+         <td>documentation: Radovan<br>
+             jupyter: Thor<br>
 	     </td>
          <td>Naoe</td><!--host-->
          <td>Juho</td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Max, Bjørn</td><!--expert helpers-->
 </tr>
 <tr>
   <th>20 May (W)</th>
-         <td>testing: <br>
-		     modular code development: <br>
-		     outro: <br>
+         <td>testing: Bjørn<br>
+	     modular code development: Radovan<br>
+	     outro: <br>
 	     </td>
-         <td></td><!--host-->
-         <td></td><!--hackmd-->
-         <td></td><!--expert helpers-->
+         <td>Naoe</td><!--host-->
+         <td>Thor</td><!--hackmd-->
+         <td>Richard</td><!--expert helpers-->
 </tr>
 </table>
 
