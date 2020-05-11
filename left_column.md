@@ -2,7 +2,7 @@
 
 ### May 18-20, 2020
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
+<a class="btn btn-success" href="https://indico.neic.no/event/140/" data-mode="1" target="_blank">Register here</a>
 
 ### Contact
 
