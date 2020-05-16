@@ -58,6 +58,10 @@ Python.
 - You can use a machine with which you can work on exercise and join in the workshop by Zoom.
 - You need to install some software. Please follow links in the schedule.
 
+### Host
+
+- Naoe Tatara
+
 ### Instructors
 
 - Radovan Bast
