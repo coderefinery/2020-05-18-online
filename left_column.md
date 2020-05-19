@@ -73,7 +73,7 @@ Day 3 (20 May, Wed)
   [Automated testing](https://coderefinery.github.io/testing/)
   (Bjørn)
 - 10:30 - 11:50
-  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
+  [Modular code development](https://github.com/coderefinery/modular-type-along)
   (Radovan)
 - 11:50 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
